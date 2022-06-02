@@ -1,0 +1,17 @@
+{
+  "name": "blumen-mont",
+  "version": "1.0.0",
+  "description": "blumen mont landing page for their web shop",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.0",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
+  }
+}
